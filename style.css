@@ -1,0 +1,72 @@
+body {
+    min-height: 100vh;
+    padding: 2%;
+    background-color: rgb(149, 179, 118);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 10px;
+}
+
+header {
+    position: sticky;
+    padding: 20px 40px;
+    background-color: transparent;
+}
+
+header h1, h2 {
+    grid-column: span 4;
+}
+ 
+header nav {
+    grid-column: 7 / span 5;
+    justify-self:  end;
+    text-align: right;
+}
+.ethos {
+    grid-column: 2 / span 6;
+    padding: 100px 50px;
+    font-size: 20px;
+}
+
+.theme h1 {
+    vertical-align: text-top;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.theme p {
+    width: 300px;
+    height: 500px;
+    text-align: justify;
+    padding: 10px;
+}
+.theme {
+    grid-column: 1 / span 12;
+    padding: 500px 50px;
+    background-color:rgb(217, 241, 190);
+    border-radius: 8px;
+}
+
+.events {
+    padding: 100px 50px;
+}
+
+.event {
+    grid-column: span 3;
+    padding: 10px 20px;
+    gap: 10px;
+    background-color: rgb(217, 241, 190);
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgb(92, 102, 145, 0.8);
+}
+
