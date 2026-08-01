@@ -23,7 +23,7 @@ This Section will host the most written content surrounding the current theme. I
 Events:
 A list of local events that surround the current theme.
 
-Isipiration:
+Ispiration:
 Visual inspiration.
 
 Featured Artists:
@@ -45,7 +45,9 @@ Divide large sections of text.
 Prioritize visual heiarchy.
 
 ## Revisions
-Describe at least three meaningful revisions made after testing.
+Added padding so that text is more easily viewed.
+Added hover states so that users had more visual ques.
+Added engaging visuals so that user understands the visual tone of the page more clearly.
 
 ## Technologies Used
 - HTML
@@ -54,7 +56,19 @@ Describe at least three meaningful revisions made after testing.
 - GitHub Pages
 
 ## Credits
-List all outside assets, tutorials, fonts, images, icons, sounds, code references, and tools.
+Google Icon: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:close:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23e3e3e3
+Google Icon: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:menu:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23e3e3e3
+Google Font: https://fonts.googleapis.com/css2?family=Roboto
+Responsive Navbar: https://www.coding2go.com/
+Visuals: https://www.pinterest.com/sunflowercrow2005/casa-mori/
+
+Site Background: https://stock.adobe.com/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Bfetch_excluded_assets%5D=1&filters%5Binclude_stock_enterprise%5D=1&filters%5Bis_editorial%5D=0&filters%5Bcontent_type%3Aimage%5D=1&filters%5Bfree_collection%5D=0&k=%22repeating+background%22&order=relevance&search_page=2&get_facets=0&search_type=pagination&asset_id=1824005562
 
 ## Future Improvements
-Describe what you would improve or add with more time.
+Make visual theme more cohesive.
+Add more Javascript features, such as hover animations.
+Flesh out Artist section, add icons and bios.
+Have a more in depth visuals section.
+Play with custom visual assets for the page.
+Add links to actual local events in the event section.
+Develop the theme section more.
